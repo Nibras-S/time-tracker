@@ -3,7 +3,7 @@ goodfdfcdsjcbsjd
 Java (Maven) application for tracking time on the job
 
 ## Purpose
-
+ZX
 Simple Java-app using Maven.
 
 ## Building
